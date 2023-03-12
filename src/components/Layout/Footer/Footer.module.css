@@ -1,0 +1,9 @@
+.footer{
+    background-color: lightblue;
+    padding: 20px 200px;
+}
+
+.date{
+    font-size: 1rem;
+    /* font-weight: 600; */
+}

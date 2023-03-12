@@ -1,0 +1,9 @@
+.header{
+    background-color: lightblue;
+    padding: 20px 200px;
+}
+
+.name{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
